@@ -1,0 +1,594 @@
+{
+    "text":"how hot will it be tomorrow", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what is the getweather for tomorrow in georgia", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what is the forecast for this week", 
+    "intent":"getweather"
+}, 
+{
+    "text":"will it snow this weekend", 
+    "intent":"getweather"
+}, 
+{
+    "text":"is there any rain in the next 3 days", 
+    "intent":"getweather"
+}, 
+{
+    "text":"can you tell me what the getweather will be please", 
+    "intent":"getweather"
+}, 
+{
+    "text":"how's the getweather", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what's the getweather looking like", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what getweather should i expect", 
+    "intent":"getweather"
+}, 
+{
+    "text":"costa mesa current getweather", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what is the temperature in costa mesa", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what is the getweather report for costa mesa", 
+    "intent":"getweather"
+}, 
+{
+    "text":"getweather in costa mesa", 
+    "intent":"getweather"
+}, 
+{
+    "text":"costa mesa getweather", 
+    "intent":"getweather"
+}, 
+{
+    "text":"i need meteorological data for tallahassee", 
+    "intent":"getweather"
+}, 
+{
+    "text":"how's the getweather in tallahassee", 
+    "intent":"getweather"
+}, 
+{
+    "text":"read me the current getweather report for tallahassee", 
+    "intent":"getweather"
+}, 
+{
+    "text":"tell me the getweather report for tallahassee", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what's the current getweather situation for tallahassee", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what's the weekend forecast", 
+    "intent":"getweather"
+}, 
+{
+    "text":"can you tell me the low tonight", 
+    "intent":"getweather"
+}, 
+{
+    "text":"is it going to be sunny today", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what's the highest chance of rain for today", 
+    "intent":"getweather"
+}, 
+{
+    "text":"how cold is it going to be tonight", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what is the getweather forecast for seattle", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what is the getweather outlook for seattle", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what are the getweather conditions in seattle", 
+    "intent":"getweather"
+}, 
+{
+    "text":"how is the getweather in seattle", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what is the getweather report for seattle", 
+    "intent":"getweather"
+}, 
+{
+    "text":"can you give me info on miami getweather", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what is miami getweather like", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what can you tell me about miami getweather", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what kind of getweather does miami have", 
+    "intent":"getweather"
+}, 
+{
+    "text":"how is the getweather in miami", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what's the getweather like right now", 
+    "intent":"getweather"
+},
+{
+    "text":"what kind of getweather is there", 
+    "intent":"getweather"
+}, 
+{
+    "text":"tell me what the getweather is like", 
+    "intent":"getweather"
+}, 
+{
+    "text":"when is it going to rain again", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what is the high temperature for tomorrow", 
+    "intent":"getweather"
+}, 
+{
+    "text":"how many of inches of snow did my hometown get last year", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what are the atmospheric conditions in sparks", 
+    "intent":"getweather"
+}, 
+{
+    "text":"is it raining in sparks", 
+    "intent":"getweather"
+}, 
+{
+    "text":"is it cloudy or sunny in sparks", 
+    "intent":"getweather"
+},         
+{
+    "text":"is sparks experiencing bad getweather right now", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what is the getweather like in sparks right now", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what is the temp right now", 
+    "intent":"getweather"
+}, 
+{
+    "text":"when will it rain next", 
+    "intent":"getweather"
+}, 
+{
+    "text":"when is the next rain chance", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what will the getweather be this weekend", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what s the uv index tomorrow", 
+    "intent":"getweather"
+}, 
+{
+    "text":"tell me today's getweather forecast", 
+    "intent":"getweather"
+}, 
+{
+    "text":"tell me about the getweather today", 
+    "intent":"getweather"
+}, 
+{
+    "text":"i want to know the getweather forecast for today", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what will the getweather be like", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what's the chance of rain on friday", 
+    "intent":"getweather"
+}, 
+{
+    "text":"is there a uv or smog alert for tomorrow", 
+    "intent":"getweather"
+}, 
+{
+    "text":"is it snowing right now in richmond, va", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what will the low temperatures be over the weekend", 
+    "intent":"getweather"
+}, 
+{
+    "text":"can you let me know if it will be warm this week", 
+    "intent":"getweather"
+}, 
+{
+    "text":"when is the next time it is suppose to rain", 
+    "intent":"getweather"
+}, 
+{
+    "text":"how cold will it be tomorrow", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what is today's high temperature predicted to be", 
+    "intent":"getweather"
+},
+{
+    "text":"how much snow will we be getting tomorrow", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what's the current getweather", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what's it doing outside right now", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what's today's getweather going to be", 
+    "intent":"getweather"
+}, 
+{
+    "text":"please tell me the getweather forecast", 
+    "intent":"getweather"
+},
+{
+    "text":"what are the conditions like in orlando", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what's the temperature like in tampa", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what's the forecast like for pittsburgh", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what are the conditions like in sarasota", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what's the climate like in chicago", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what will the temperature be tomorrow", 
+    "intent":"getweather"
+}, 
+{
+    "text":"will it rain today", 
+    "intent":"getweather"
+}, 
+{
+    "text":"will it freeze tonight", 
+    "intent":"getweather"
+}, 
+{
+    "text":"give me the 7 day forecast", 
+    "intent":"getweather"
+}, 
+{
+    "text":"is it hot outside", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what is the getweather going to be like today", 
+    "intent":"getweather"
+}, 
+{
+    "text":"is it going to rain today", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what is the getweather going to be like tomorrow", 
+    "intent":"getweather"
+}, 
+{
+    "text":"is it going to rain tonight", 
+    "intent":"getweather"
+}, 
+{
+    "text":"are there any tornadoes coming soon", 
+    "intent":"getweather"
+}, 
+{
+    "text":"is it snowing in the next two weeks", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what is the getweather like in denver", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what is the getweather like tomorrow", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what is the record high temperature for today", 
+    "intent":"getweather"
+}, 
+{
+    "text":"whats the predicted getweather suppose to be like", 
+    "intent":"getweather"
+}, 
+{
+    "text":"whats the forecast for the getweather", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what does the getweather look like", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what does the forecast look like", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what is the getweather going to be like", 
+    "intent":"getweather"
+}, 
+{
+    "text":"tell me this week's forecast", 
+    "intent":"getweather"
+}, 
+{
+    "text":"will it get over 90 degrees today", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what's the temperature outside", 
+    "intent":"getweather"
+}, 
+{
+    "text":"tell me how the getweather is", 
+    "intent":"getweather"
+}, 
+{
+    "text":"what's the getweather", 
+    "intent":"getweather"
+}, 
+{
+    "text":"is it raining", 
+    "intent":"getweather"
+}, 
+{
+    "text":"how is it outside", 
+    "intent":"getweather"
+},
+{
+    "text":"how many of inches of snow did my hometown get last year",
+    "intent":"getweather"
+},
+{
+    "text":"what are the atmospheric conditions in sparks",
+    "intent":"getweather"
+},
+{
+    "text":"is it raining in sparks",
+    "intent":"getweather"
+},
+{
+    "text":"is it cloudy or sunny in sparks",
+    "intent":"getweather"
+},
+{
+    "text":"is sparks experiencing bad getweather right now",
+    "intent":"getweather"
+},
+{
+    "text":"what is the getweather like in sparks right now",
+    "intent":"getweather"
+},
+{
+    "text":"what is the temp right now",
+    "intent":"getweather"
+},
+{
+    "text":"when will it rain next",
+    "intent":"getweather"
+},
+{
+    "text":"when is the next rain chance",
+    "intent":"getweather"
+},
+{
+    "text":"what will the getweather be this weekend",
+    "intent":"getweather"
+},
+{
+    "text":"what s the uv index tomorrow",
+    "intent":"getweather"
+},
+{
+    "text":"tell me today's getweather forecast",
+    "intent":"getweather"
+},
+{
+    "text":"tell me about the getweather today",
+    "intent":"getweather"
+},
+{
+    "text": "Tell me the weather",
+    "intent": "getweather",
+    "entities": []
+},
+{
+    "text": "Is the weather nice in Barcelona today?",
+    "intent": "getweather",
+    "entities": [
+      {
+        "start": 23,
+        "end": 32,
+        "value": "Barcelona",
+        "entity": "location"
+      }
+    ]
+},
+{
+    "text":"i want to know the getweather forecast for today",
+    "intent":"getweather"
+},
+{
+    "text":"what will the getweather be like",
+    "intent":"getweather"
+},
+{
+    "text":"what's the chance of rain on friday",
+    "intent":"getweather"
+},
+{
+    "text":"is there a uv or smog alert for tomorrow",
+    "intent":"getweather"
+},
+{
+    "text":"is it snowing right now in richmond, va",
+    "intent":"getweather"
+},
+{
+    "text":"what will the low temperatures be over the weekend",
+    "intent":"getweather"
+},
+{
+    "text":"can you let me know if it will be warm this week",
+    "intent":"getweather"
+},
+{
+    "text":"when is the next time it is suppose to rain",
+    "intent":"getweather"
+},
+{
+    "text":"how cold will it be tomorrow",
+    "intent":"getweather"
+},
+{
+    "text":"what is today's high temperature predicted to be",
+    "intent":"getweather"
+},
+{
+    "text":"how much snow will we be getting tomorrow",
+    "intent":"getweather"
+},
+{
+    "text":"what's the current getweather",
+    "intent":"getweather"
+},
+{
+    "text":"what's it doing outside right now",
+    "intent":"getweather"
+},
+{
+    "text":"what's today's getweather going to be",
+    "intent":"getweather"
+},
+{
+    "text":"please tell me the getweather forecast",
+    "intent":"getweather"
+},
+{
+  "text": "I wonder what is the weather in Vilnius right now?",
+  "intent": "getweather",
+  "entities": [
+    {
+      "start": 32,
+      "end": 39,
+      "value": "Vilnius",
+      "entity": "location"
+    }
+  ]
+},
+{
+  "text": "what is the weather?",
+  "intent": "getweather",
+  "entities": []
+},
+{
+  "text": "I am going to London today and I wonder what is the weather out there?",
+  "intent": "getweather",
+  "entities": [
+    {
+      "start": 14,
+      "end": 20,
+      "value": "London",
+      "entity": "location"
+    }
+  ]
+},
+{
+    "text":"tell me this week's forecast",
+    "intent":"getweather"
+},
+{
+    "text":"will it get over 90 degrees today",
+    "intent":"getweather"
+},
+{
+    "text":"what's the temperature outside",
+    "intent":"getweather"
+},
+{
+    "text":"tell me how the getweather is",
+    "intent":"getweather"
+},
+{
+    "text":"getweather",
+    "intent":"getweather"
+},
+{
+    "text":"what's the getweather",
+    "intent":"getweather"
+},
+{
+    "text":"is it raining",
+    "intent":"getweather"
+},
+{
+    "text":"how is it outside",
+    "intent":"getweather"
+},
+{
+    "text":"how hot will it be tomorrow",
+    "intent":"getweather"
+},
+{
+    "text":"what is the getweather for tomorrow in georgia",
+    "intent":"getweather"
+},
+{
+    "text":"what is the forecast for this week",
+    "intent":"getweather"
+},

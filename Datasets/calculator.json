@@ -1,0 +1,734 @@
+{
+    "text":"what is 78 times 81 minus 5", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 1785 minus 334 minus 87 plus 374 minus 400 plus 17", 
+    "intent":"calculator"
+}, 
+{
+    "text":"help me with math", 
+    "intent":"calculator"
+}, 
+{
+    "text":"i need you to help me with some math if you can", 
+    "intent":"calculator"
+}, 
+{
+    "text":"please help with my math", 
+    "intent":"calculator"
+}, 
+{
+    "text":"can you help me do math", 
+    "intent":"calculator"
+}, 
+{
+    "text":"can you do a math problem", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 1 million twelve hundred divided by 400 thousand", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the square root of 10500", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 20 times 20 times 30", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 10 to the 12th power", 
+    "intent":"calculator"
+},
+{
+    "text":"can you help me solve a math problem", 
+    "intent":"calculator"
+}, 
+
+
+{
+    "text":"how to solve this math problem", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 4 + 7", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 4 x 4", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 2 + 2", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 20+ 5", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 500 x 25", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 2+2", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 10 + 20", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 22+ 6", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the square root of 80", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 5 x 4", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 15% of 3143", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the square root of 10294", 
+    "intent":"calculator"
+}, 
+{
+    "text":"how many square feet is a 13 by 74 room", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is three quarters of one sixth", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 213 times 3", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the square root of 144", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the antilog of 365", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 78 times 85", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 250 times 118 times 9", 
+    "intent":"calculator"
+}, 
+{
+    "text":"how much is 50 plus 756", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 750 divided by 5", 
+    "intent":"calculator"
+},
+{
+    "text":"if i win 200000 how do i split it 7 ways", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 900 times 8", 
+    "intent":"calculator"
+}, 
+{
+    "text":"can you tell me what 80 divided buy 4 is", 
+    "intent":"calculator"
+}, 
+{
+    "text":"560 divided by 3", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 606 divided by 5", 
+    "intent":"calculator"
+}, 
+{
+    "text":"subtract 100 from 12", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 005 percent of 1 percent", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the square root of 31", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is six divided by 16", 
+    "intent":"calculator"
+}, 
+{
+    "text":"how many times can 12 go into 600", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the square root of sixteen", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 562 times 400", 
+    "intent":"calculator"
+}, 
+{
+    "text":"add twelve and twelve please", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 10 + 10", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the square root of 5", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 1/2 times 5/8", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 80980 + 098098 + 80980 + 1243", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 13 times 45", 
+    "intent":"calculator"
+},
+{
+    "text":"help me solve this math equation", 
+    "intent":"calculator"
+},
+{
+    "text":"i need your assistance to solve this math problem", 
+    "intent":"calculator"
+}, 
+{
+    "text":"can you multiply 45 by 23", 
+    "intent":"calculator"
+}, 
+{
+    "text":"can you divide 100 by 20", 
+    "intent":"calculator"
+}, 
+{
+    "text":"can you subract 36 from 5", 
+    "intent":"calculator"
+}, 
+{
+    "text":"can you add 5 and 89", 
+    "intent":"calculator"
+}, 
+{
+    "text":"multiply 7 and 42", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the sum of 3, 7, 9, and 24", 
+    "intent":"calculator"
+}, 
+{
+    "text":"add up 8 and 7", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the square root of 888", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 87 divided by 4", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the square root of 8814", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 89 divided by 3", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 13 times 57", 
+    "intent":"calculator"
+},
+{
+    "text":"can you tell me the square root of pi", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 543 times 344", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is seventeen plus three", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the derivative of x squared plus 5", 
+    "intent":"calculator"
+}, 
+{
+    "text":"can you factor x squared plus 4 x plus 4", 
+    "intent":"calculator"
+}, 
+{
+    "text":"is 126 divisible by 8", 
+    "intent":"calculator"
+},
+{
+    "text":"what is 7 x 7", 
+    "intent":"calculator"
+}, 
+{
+    "text":"please add 456 and 781 for me", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 8 factorial", 
+    "intent":"calculator"
+}, 
+{
+    "text":"can you tell me what 30% off 279 is", 
+    "intent":"calculator"
+}, 
+{
+    "text":"can you tell me what 30% off 235 is, please", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the sum of 3 plus 5", 
+    "intent":"calculator"
+}, 
+{
+    "text":"could you tell me what 30% off 235 is, please", 
+    "intent":"calculator"
+}, 
+{
+    "text":"can you tell me what 30% off 235 is", 
+    "intent":"calculator"
+}, 
+{
+    "text":"can you tell me what 30% off 279 is, please", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the sum of 10 plus 5", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 4 + 4", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 60 percent off of 350 dollars", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is an 18 percent tip on 20 dollars", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 25 percent of 6999", 
+    "intent":"calculator"
+}, 
+{
+    "text":"can you tell me what is 18 percent of $2500", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 3/4 of 18", 
+    "intent":"calculator"
+}, 
+{
+    "text":"i need to know what is 85% of $1500", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 20% of a thousand", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 55 times 300", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the square root of 1 million", 
+    "intent":"calculator"
+}, 
+{
+    "text":"will you help me with a math problem", 
+    "intent":"calculator"
+},
+{
+    "text":"what does 2 + 2 equal", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 10000 divided by 20", 
+    "intent":"calculator"
+},
+{
+    "text":"what is 300 divided by 42", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 400 times 2", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the average of 54, 23, 43, 12, and 442", 
+    "intent":"calculator"
+}, 
+{
+    "text":"add 45 to 87 plus 54 plus 43 plus 22", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 48 multiplied by 4 divided by 2", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 25% of $54,788", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the square root of 95", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 1100 minus 2347", 
+    "intent":"calculator"
+}, 
+{
+    "text":"tell me what 1875 plus 3459 equals", 
+    "intent":"calculator"
+}, 
+{
+    "text":"tell me the answer to 1000 divided by 40", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 1000 plus 745", 
+    "intent":"calculator"
+}, 
+{
+    "text":"i need to know the answer to 10000 multiplied by 44", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 100 multiplied by 55", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what's 15% of 68", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what's 47 times 83", 
+    "intent":"calculator"
+}, 
+{
+    "text":"if something is 15% off $35, how much is it", 
+    "intent":"calculator"
+}, 
+{
+    "text":"how many times can 3 be divided into 1253", 
+    "intent":"calculator"
+}, 
+{
+    "text":"divide 100 by 12", 
+    "intent":"calculator"
+}, 
+{
+    "text":"find square root of 453", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 1243 times 45", 
+    "intent":"calculator"
+}, 
+{
+    "text":"find the square root of 1243435", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the square root of 36", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 592 minus 124", 
+    "intent":"calculator"
+}, 
+{
+    "text":"i need to know what 25 times 38 is", 
+    "intent":"calculator"
+}, 
+{
+    "text":"can you calculate the square root of 172", 
+    "intent":"calculator"
+}, 
+{
+    "text":"i bought 6 shirts at $499 each what was my total expenditure for them", 
+    "intent":"calculator"
+}, 
+{
+    "text":"i spent 34 dollars for 12 gallons of paint what is the average price for each gallon", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the sum of eleven and ten", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the solution to sixty times thirty", 
+    "intent":"calculator"
+}, 
+{
+    "text":"how do i ask the ai to help me with math problem", 
+    "intent":"calculator"
+},
+{
+    "text":"can you help me solve a math problem", 
+    "intent":"calculator"
+}, 
+{
+    "text":"how to solve this math problem", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 4 + 7", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 4 x 4", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 2 + 2", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 20+ 5", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 500 x 25", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 2+2", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 10 + 20", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 22+ 6", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the square root of 80", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 5 x 4", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 15% of 3143", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the square root of 10294", 
+    "intent":"calculator"
+}, 
+{
+    "text":"how many square feet is a 13 by 74 room", 
+    "intent":"calculator"
+},
+{
+    "text":"if i win 200000 how do i split it 7 ways", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 900 times 8", 
+    "intent":"calculator"
+}, 
+{
+    "text":"can you tell me what 80 divided buy 4 is", 
+    "intent":"calculator"
+}, 
+{
+    "text":"560 divided by 3", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 606 divided by 5", 
+    "intent":"calculator"
+}, 
+{
+    "text":"subtract 100 from 12", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 005 percent of 1 percent", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the square root of 31", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is six divided by 16", 
+    "intent":"calculator"
+}, 
+{
+    "text":"how many times can 12 go into 600", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the square root of sixteen", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 562 times 400", 
+    "intent":"calculator"
+}, 
+{
+    "text":"add twelve and twelve please", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 10 + 10", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the square root of 5", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 1/2 times 5/8", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 80980 + 098098 + 80980 + 1243", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 13 times 45", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 34 times 80908", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 90908 divided by 30890", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 38% of 389209", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the square root of 66", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 2/3 x 1/9", 
+    "intent":"calculator"
+}, 
+{
+    "text":"can you do algebra", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 1 fifth times 2 fifths", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what's 3 plus 3", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what's ten times eight", 
+    "intent":"calculator"
+}, 
+{
+    "text":"i need to know what 75 plus 43 is", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what do you get if you divide 3 by 2", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the area of a 20 x 20 room", 
+    "intent":"calculator"
+}, 
+{
+    "text":"subtract 85 from 997", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 20 + 20", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the square root of 2784", 
+    "intent":"calculator"
+}, 
+{
+    "text":"how many times does 8 go into 2000", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 35 times 23", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 3 to the 6th power", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is 63 percent of 145", 
+    "intent":"calculator"
+}, 
+{
+    "text":"can you calculate 18 divided by 45", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the square root of 104", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the answer to 5-6=", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what is the sum of 8 + 3", 
+    "intent":"calculator"
+}, 
+{
+    "text":"please provide the square root of 36", 
+    "intent":"calculator"
+}, 
+{
+    "text":"what does 6 x 1 equal", 
+    "intent":"calculator"
+}

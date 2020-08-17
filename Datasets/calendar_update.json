@@ -1,0 +1,600 @@
+{
+    "text":"you can remove the field trip from my calendar for march 12, 2019", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"you can remove the wedding from my calendar for march 12, 2019", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"you can remove the play date from my calendar for feb 18, 2019", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"you can remove the dinner party from my calendar for january 21, 2019", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"you can remove the brithday party from my calendar fpr january 15, 2019", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"put cancel abc on my calendar for next thursday", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i need to add iep meeting to my calendar on april 15th", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"add my next doctor visit to my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"add swimming to my calendar today", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i have an appointment on the 5th put it on for 5pm", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"for friday, add a doctor's appointment to my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"can you add a doctor's appointment to friday's calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"add to my friday calendar a doctor's appointment", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"add a doctor's appointment to my calendar for friday", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"add to friday's calendar a doctor's appointment", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"mark my calendar that i will be meeting steven on march 5", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"on the 22nd of this month, we need to clear our calendar so we can leave it open for mark to visit", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"can you remove that event from my calendar, please", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"can you remove this event from my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"can you remove this event from my calendar, please", 
+    "intent":"calendar_update"
+},
+{
+    "text":"add my dentist appointment to the calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"add a vet appointment for 5 pm on saturday", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i need to edit this event out of my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"please remove an event from this calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i no longer want this event in my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"delete that event from calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"make sure to add to my calendar the staff meeting for march 1 at 10 am", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"add staff meeting to my calendar for march 1 at 10:00 in the morning", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i want you to add staff meeting to my calendar for march 1 at 10:00 am", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"please add to my calendar for the staff meeting that is scheduled on march 1, 2019 at 10 am", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"the staff meeting on march 1 at 10:00 am needs to be added to my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"leave the date of june 4 open on my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i need anniversary dinner added to my schedule for march 7", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"can you change the date of the doctor's appointment event in my calendar from april 1 to april 3rd", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i need a clear calendar for april 15", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"please add final exams to my calendar for may 2", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"add mom's birthday to my calendar on april 12", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"please take final exams off my calendar for may 3", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"add dentist appointment to my calendar for march 1", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"remove the may 11 event called baby shower from my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"clear my entire schedule for april 1", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"take the event called surprise party off my calendar for june 2", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i want you to cancel the event called 'bachelorette party' on april 15", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"please schedule an event called 'nadine's baby shower' on my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"remove the june 12 event called sasha's wedding from my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"clear my calendar for the date of june 23", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"please put annie's baby shower on march 30 in my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"make sure my calendar is clear for june 1", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"remove anniversary dinner from my calendar on april 5", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"please clear entries on my calendar for the 1st", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"please add an item to my calendar that i need to clean the kitchen on thursday", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i want the events on my calendar for march 20th, 2019 to be cleared", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"remove celebrate anniversary from my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"erase any event on my calendar that's set for wednesday of next week", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i want to add a doctor's visit to the calendar for friday", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"clear my calendar for this friday", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"delete all events on my calendar that have the word girlfriend in them", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"go ahead and delete the doctor appointment i have scheduled for monday", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"add my birthday to my calendar for next month on the 5th", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"delete my golf tournament event from tomrrow", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"put my parents anniversary on the calendar for next week on tuesday", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"clear my calendar for tomorrow", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"remove the recurring training meeting events off my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"put a reminder on the calendar to buy a gun on march 1st", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i need to add farm trip to my calendar for friday", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i want to add farm trip to my calendar for friday", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i must add farm trip to my calendar for friday", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i got to remove fishing from my calendar for soccer", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"please remove fishing from my calendar for soccer", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i need to remove fishing from my calendar for soccer", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i wanna remove fishing from my calendar for soccer", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i shall remove fishing from my calendar for soccer", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"add farm trip to my calendar for friday", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i have to add farm trip to my calendar for friday", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i need to add my doctor's appointment to my calendar for the first", 
+    "intent":"calendar_update"
+},
+{
+    "text":"i need to delete my doctor's appointment scheduled for march 15th from my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i would like to have march 5th's 5k added to my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"add my spa appointment on the 12th to my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"can you add remember to register for the race on my calendar for the 15th of march", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"please add lunch and catch up with lisa on friday to my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"please scratch my march 1st meeting off my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"march 3rd needs to be cleared on my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"make sure april 1 is clear on my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"keep april 2nd wide open on my calendar please", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"get rid of everything on my calendar for march 2nd", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"take my lunch plans off the calendar for march 13th", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"take my dinner plans off my calendar for tomorrow", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"remove dinner with suzie from my calendar on march 1st", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"can you get rid of my trip to the zoo from my calendar on march 1st", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"remove my date with liz from my calendar on april 1st", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"clear my calendar on march 1st", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"write down appointment for tomorrow on my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"put appointment on my calendar for tomorrow", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i need to put my appointment for tomorrow on my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"make not of my appointment for tomorrow on my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"remember to put down that i have an appointment for tomorrow on my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"add my doctor appointment on march 25th at 3:00 to my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"delete the hair appointment i had scheduled on may 1st pleae", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"lunch with deb at noon today", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"add jake's birthday party for friday at 5", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"remove the birthday party this friday from my schedule", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"remove from calendar jesse's bbq on june 9th", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"take lunch off my calendar on the 3rd", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"get rid of tuesday the 5ths dinner", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"remove jake's birthday on march 22", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"take pat's appointment off my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"take lunch with steven off of my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i no longer need to go to the zoo on the 8th of this month", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"undo the last event on my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"for the calendar, on february 8 add moms birthday", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"schedule family dinner on my calendar on march 8", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"put \"get tires checked\" on my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"please put taco night on the house calendar date of january 6", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"remove meeting with carla from the calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"add meeting with carla to my schedule for july 4", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i need trip to the zoo on the calendar for june 4", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"delete lunch with steve on friday please", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"remove moms birthday from calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i need to delete an event from my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i need to remove an event from my calendar", 
+    "intent":"calendar_update"
+},
+{
+    "text":"i need to add something to my calendar for next tuesday", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"please clear my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"take the doctor appointment off my calendar please", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"can you add an event to my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"erase all events on friday from my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"remove jess's party from my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"delete all calendar entries on march 3", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"delete dentist from my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"cancel doctors appointment from my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"erase meeting with jeff from my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"clear my calendar on feb 28", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"cancel event scheduled for this afternoon", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"please take off my calendar on saturday the 6th birthday party for john", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i want to take the 8am meeting with sam on monday the 5th off my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"please remove lunch with sally that is on my calendar on tuesday the 8th", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"i need buy a birthday gift for sue taken off my calendar  it is on monday or tuesday last week", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"will you remove the dinner with june on saturday the 4th at 7pm from my calendar", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"can you cancel improv class from my calendar for may 7th", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"clear my calendar for may 3rd", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"take work from my calendar for may 7th", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"clear my calendar for september 6th", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"delete jury duty from my calendar for may 7th", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"remove fencing from my calendar for may 7th", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"clear my calendar for february 29th", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"clear my calendar for april 20th", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"clear my calendar for november 11th", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"remove wrestlemania from my calendar for may 7th", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"what can i do to get rid of this event", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"what is the best way to remove this appointment", 
+    "intent":"calendar_update"
+}, 
+{
+    "text":"friday needs to be clear on my calendar", 
+    "intent":"calendar_update"
+} 

@@ -1,0 +1,595 @@
+{
+    "text":"i enjoyed speaking with you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"peace out!", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"this was a nice chat, goodbye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"this was a nice conversation", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"good talk, see you later", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was lovely to speak with you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was lovely to speak with you, bye bye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"thank you for the chat, goodbye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"a pleasure as always to speak with you, bye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"thank you for chatting with me, bye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"i enjoyed our talk, goodbye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was a pleasure talking to you, goodbye now", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"farewell", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"goodnight", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"have a good day", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"syonara, ai device!", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"goodbye, helpful ai device!", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"bye-bye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"goodbye, ai assistant", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"glad we got to talk", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"i'm glad i got to talk to you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"nice to speak with you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"this was a great conversation", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"talk to you later", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"tata for now", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"i'm out of here", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"that's all, bye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"see ya later", 
+    "intent":"goodbye"
+},
+{
+    "text":"good speaking to you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was really awesome to talk to you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was great to speak with you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was great to talk to you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"bye bye then", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was very good to talk to you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"good bye then", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"bye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"regards", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"catch you later", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"great talk, thanks", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"later", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"goodbye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"see you later", 
+    "intent":"goodbye"
+},
+{
+    "text":"adios ai", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was great to see you again, see ya later!", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"i had a pleasure talking to you, see you later", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"nice talking again, bye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"i have to go but it was nice talking again!", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"i am glad we got to talk again, see you soon", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"sayonara", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"catch you around", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"good seeing you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"later, thanks for chatting", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"adios", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"great talk, take it easy", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"see ya", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"great chat, talk to you later", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"nice talk, talk to you later", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"thanks for chatting, later", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"goodbye to you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"i must say goodbye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"i'm saying goodbye now", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it is time to say goodbye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"i have to say goodbye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"cya later", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"i enjoyed talking to you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"thanks for talking", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was good chatting", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was nice chatting with you", 
+    "intent":"goodbye"
+},
+{
+    "text": "goodbye",
+    "intent": "goodbye",
+    "entities": []
+}, 
+{
+    "text": "bye bye",
+    "intent": "goodbye",
+    "entities": []
+},
+{
+    "text": "see ya",
+    "intent": "goodbye",
+    "entities": []
+},
+{
+    "text":"enjoy your day, goodbye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"thank you goodbye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"have a good day, bye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"that will be all have a nice day!", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"i enjoyed talking to you, bye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was great talking to you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"nice seeing you bye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was nice to chat", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was a pleasure talking to you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"ok good chatting goodbye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"thanks bye bye!", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"that's all i need, i'm going now", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"talk to you soon, bye!", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"thanks for your help, goodbye!", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"good bye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"signing off", 
+    "intent":"goodbye"
+},
+{
+    "text":"it was cool talking with you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was pleasant conversing with you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"good bye my friend", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"i need to go now", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"see you again soon", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"i've got to run now", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"goodbye!", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"i had fun speaking with you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"bye!", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"later!", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"adios!", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"until next time!", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"farewell!", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was enjoyable to chat with you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"i'm outta here!", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was pleasant having a conversation with you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"bye now", 
+    "intent":"goodbye"
+},
+{
+    "text":"buhbye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"see you in a while", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"see you around", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"nice to see you again", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"nice to see you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"talk later", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"tootles", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"peace out", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"goodbye for now ai", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"ai goodbye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"i'll talk to you later ai", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"we'll talk later ai", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"i have to go ai goodbye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"bye bye!", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"see you later!", 
+    "intent":"goodbye"
+},
+{
+    "text":"always nice to talk to you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"see you later, alligator", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"good night", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was nice to get in touch", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"see you soon", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"later gator!", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was nice to talk it out with you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was nice to converse with you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"ill see you around", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"take it easy!", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"later gater", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was nice to speak with you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"see you later alligator", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"fairwell", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"have a good one", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"peace", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"bye for now", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"thanks, bye", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"i have to get going", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"talk to you later!", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"i will be leaving now", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"i'm leaving-goodbye!", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"thanks for talking to me", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was really nice to be able to chat with you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was good to talk to you today", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was great to have this conversation with you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was nice to catch up with you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was enjoyable talking with you", 
+    "intent":"goodbye"
+}, 
+{
+    "text":"it was great chatting with you", 
+    "intent":"goodbye"
+},

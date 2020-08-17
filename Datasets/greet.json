@@ -1,0 +1,738 @@
+{
+    "text":"how are you doing", 
+    "intent":"greet"
+}, 
+{
+    "text":"are you okay", 
+    "intent":"greet"
+}, 
+{
+    "text":"what are you feeling today", 
+    "intent":"greet"
+}, 
+{
+    "text":"is everything ok today", 
+    "intent":"greet"
+}, 
+{
+    "text":"are you doing alright", 
+    "intent":"greet"
+}, 
+{
+    "text":"hello, how's your day", 
+    "intent":"greet"
+}, 
+{
+    "text":"hey there, how are you today", 
+    "intent":"greet"
+}, 
+{
+    "text":"hello, how is it going", 
+    "intent":"greet"
+}, 
+{
+    "text":"hi there, how are you doing", 
+    "intent":"greet"
+}, 
+{
+    "text":"hey, how are you", 
+    "intent":"greet"
+}, 
+{
+    "text":"hey, what's up", 
+    "intent":"greet"
+}, 
+{
+    "text":"hello, how are you doing", 
+    "intent":"greet"
+}, 
+{
+    "text":"hi, how are you", 
+    "intent":"greet"
+},         
+{
+    "text":"hi, how are you today", 
+    "intent":"greet"
+}, 
+{
+    "text":"hello, how are things", 
+    "intent":"greet"
+}, 
+{
+    "text":"hey there", 
+    "intent":"greet"
+}, 
+{
+    "text":"hey, what's new", 
+    "intent":"greet"
+}, 
+{
+    "text":"it is good to see you", 
+    "intent":"greet"
+}, 
+{
+    "text":"i'd like to know how you are doing", 
+    "intent":"greet"
+}, 
+{
+    "text":"hello there", 
+    "intent":"greet"
+}, 
+{
+    "text":"tell me how you are doing", 
+    "intent":"greet"
+}, 
+{
+    "text":"hello there, good morning", 
+    "intent":"greet"
+}, 
+{
+    "text":"let me know how you are doing", 
+    "intent":"greet"
+}, 
+{
+    "text":"well hi there", 
+    "intent":"greet"
+}, 
+{
+    "text":"i want to know how you are doing", 
+    "intent":"greet"
+}, 
+{
+    "text":"i need to know how you are doing today", 
+    "intent":"greet"
+}, 
+{
+    "text":"hello there ai", 
+    "intent":"greet"
+},         
+{
+  "text": "hey",
+  "intent": "greet",
+  "entities": []
+},
+{
+  "text": "hello",
+  "intent": "greet",
+  "entities": []
+},
+{
+  "text": "hi",
+  "intent": "greet",
+  "entities": []
+},
+{
+  "text": "heya",
+  "intent": "greet",
+  "entities": []
+},
+{
+  "text":"how ya doin", 
+  "intent":"greet"
+}, 
+{
+    "text":"how ya been", 
+    "intent":"greet"
+}, 
+{
+    "text":"hows are ya", 
+    "intent":"greet"
+}, 
+{
+    "text":"heyo", 
+    "intent":"greet"
+}, 
+{
+    "text":"are you good", 
+    "intent":"greet"
+}, 
+{
+    "text":"how is it going my friend", 
+    "intent":"greet"
+}, 
+{
+    "text":"how you are", 
+    "intent":"greet"
+}, 
+{
+    "text":"tell me how are you", 
+    "intent":"greet"
+}, 
+{
+    "text":"hi what's up", 
+    "intent":"greet"
+}, 
+{
+    "text":"hey what's up", 
+    "intent":"greet"
+}, 
+{
+    "text":"hey how's it going", 
+    "intent":"greet"
+}, 
+{
+    "text":"hi, ai", 
+    "intent":"greet"
+}, 
+{
+    "text":"good morning, ai", 
+    "intent":"greet"
+}, 
+{
+    "text":"how've you been", 
+    "intent":"greet"
+}, 
+{
+    "text":"wassup", 
+    "intent":"greet"
+}, 
+{
+    "text":"hey", 
+    "intent":"greet"
+}, 
+{
+    "text":"hiya", 
+    "intent":"greet"
+}, 
+{
+    "text":"how's it hanging", 
+    "intent":"greet"
+}, 
+{
+    "text":"hi", 
+    "intent":"greet"
+}, 
+{
+    "text":"hello", 
+    "intent":"greet"
+}, 
+{
+    "text":"how's everything", 
+    "intent":"greet"
+}, 
+{
+    "text":"how are things going", 
+    "intent":"greet"
+}, 
+{
+    "text":"hello, anyone there", 
+    "intent":"greet"
+}, 
+{
+    "text":"are you okay right now", 
+    "intent":"greet"
+}, 
+{
+    "text":"are you doing okay", 
+    "intent":"greet"
+}, 
+{
+    "text":"how's it going right now", 
+    "intent":"greet"
+}, 
+{
+    "text":"ahoy hoy", 
+    "intent":"greet"
+}, 
+{
+    "text":"hey there!", 
+    "intent":"greet"
+}, 
+{
+    "text":"how is everything with you", 
+    "intent":"greet"
+}, 
+{
+    "text":"hey hey!", 
+    "intent":"greet"
+}, 
+{
+    "text":"how have you been doing", 
+    "intent":"greet"
+}, 
+{
+    "text":"it's nice to see you", 
+    "intent":"greet"
+}, 
+{
+    "text":"hello there!", 
+    "intent":"greet"
+}, 
+{
+    "text":"how is it going", 
+    "intent":"greet"
+}, 
+{
+    "text":"how are things with you", 
+    "intent":"greet"
+}, 
+{
+    "text":"hiya!", 
+    "intent":"greet"
+}, 
+{
+    "text":"what's up", 
+    "intent":"greet"
+}, 
+{
+    "text":"how're you doing", 
+    "intent":"greet"
+}, 
+{
+    "text":"it's good to see you", 
+    "intent":"greet"
+}, 
+{
+    "text":"is everything going okay", 
+    "intent":"greet"
+}, 
+{
+    "text":"how is everything going", 
+    "intent":"greet"
+}, 
+{
+    "text":"how goes it", 
+    "intent":"greet"
+}, 
+{
+    "text":"hello, ai", 
+    "intent":"greet"
+}, 
+{
+    "text":"hey, ai", 
+    "intent":"greet"
+}, 
+{
+    "text":"wake up, ai", 
+    "intent":"greet"
+}, 
+{
+    "text":"good day", 
+    "intent":"greet"
+}, 
+{
+    "text":"greets to you", 
+    "intent":"greet"
+}, 
+{
+    "text":"hello, friend", 
+    "intent":"greet"
+}, 
+{
+    "text":"whats up with you", 
+    "intent":"greet"
+}, 
+{
+    "text":"hey there fellow", 
+    "intent":"greet"
+}, 
+{
+    "text":"whats up", 
+    "intent":"greet"
+}, 
+{
+    "text":"yo, hows it going", 
+    "intent":"greet"
+}, 
+{
+    "text":"how are things for you", 
+    "intent":"greet"
+}, 
+{
+    "text":"are things going well for you", 
+    "intent":"greet"
+}, 
+{
+    "text":"hello siri", 
+    "intent":"greet"
+}, 
+{
+    "text":"hi there alexa", 
+    "intent":"greet"
+}, 
+{
+    "text":"how are you doing, ai", 
+    "intent":"greet"
+}, 
+{
+    "text":"ai how are you doing today", 
+    "intent":"greet"
+}, 
+{
+    "text":"how are you doing today, ai", 
+    "intent":"greet"
+}, 
+{
+    "text":"how is my ai doing", 
+    "intent":"greet"
+}, 
+{
+    "text":"ai how are you doing on this fine day", 
+    "intent":"greet"
+}, 
+{
+    "text":"heller", 
+    "intent":"greet"
+}, 
+{
+    "text":"so how is everything", 
+    "intent":"greet"
+}, 
+{
+    "text":"how are you this day", 
+    "intent":"greet"
+}, 
+{
+    "text":"hi how are you", 
+    "intent":"greet"
+}, 
+{
+    "text":"how is everything going for you", 
+    "intent":"greet"
+}, 
+{
+    "text":"hi how is everything", 
+    "intent":"greet"
+}, 
+{
+    "text":"well hello", 
+    "intent":"greet"
+}, 
+{
+    "text":"just wanted to say hi", 
+    "intent":"greet"
+}, 
+{
+    "text":"how is your day", 
+    "intent":"greet"
+}, 
+{
+    "text":"why hello", 
+    "intent":"greet"
+}, 
+{
+    "text":"are you well", 
+    "intent":"greet"
+}, 
+{
+    "text":"hola", 
+    "intent":"greet"
+}, 
+{
+    "text":"good to see you", 
+    "intent":"greet"
+}, 
+{
+    "text":"how've you been feeling", 
+    "intent":"greet"
+}, 
+{
+    "text":"how are things", 
+    "intent":"greet"
+}, 
+{
+    "text":"are you doing well", 
+    "intent":"greet"
+}, 
+{
+    "text":"good evening", 
+    "intent":"greet"
+}, 
+{
+    "text":"yo", 
+    "intent":"greet"
+}, 
+{
+    "text":"ai, how are you feeling", 
+    "intent":"greet"
+}, 
+{
+    "text":"how is the ai doing", 
+    "intent":"greet"
+}, 
+{
+    "text":"ai, how are you doing", 
+    "intent":"greet"
+}, 
+{
+    "text":"hi ai", 
+    "intent":"greet"
+}, 
+{
+    "text":"have you been good", 
+    "intent":"greet"
+}, 
+{
+    "text":"is everything ok with you", 
+    "intent":"greet"
+}, 
+{
+    "text":"how have you been", 
+    "intent":"greet"
+}, 
+{
+    "text":"are you doing ok", 
+    "intent":"greet"
+}, 
+{
+    "text":"how are you", 
+    "intent":"greet"
+}, 
+{
+    "text":"how's life", 
+    "intent":"greet"
+}, 
+{
+    "text":"what's up with you", 
+    "intent":"greet"
+}, 
+{
+    "text":"what's going on", 
+    "intent":"greet"
+}, 
+{
+    "text":"how's it going with you", 
+    "intent":"greet"
+}, 
+{
+    "text":"how's ife treating you", 
+    "intent":"greet"
+}, 
+{
+    "text":"hello how's it going", 
+    "intent":"greet"
+}, 
+{
+    "text":"how are you today", 
+    "intent":"greet"
+}, 
+{
+    "text":"can you tell me how you're doing today", 
+    "intent":"greet"
+}, 
+{
+    "text":"how are you this fine day", 
+    "intent":"greet"
+}, 
+{
+    "text":"how are things treating you", 
+    "intent":"greet"
+}, 
+{
+    "text":"aloha", 
+    "intent":"greet"
+}, 
+{
+    "text":"are you feeling okay", 
+    "intent":"greet"
+}, 
+{
+    "text":"how do you feel", 
+    "intent":"greet"
+}, 
+{
+    "text":"bonjour", 
+    "intent":"greet"
+}, 
+{
+    "text":"how are things going for you", 
+    "intent":"greet"
+}, 
+{
+    "text":"what do you feel like doing", 
+    "intent":"greet"
+}, 
+{
+    "text":"hello, what's up", 
+    "intent":"greet"
+}, 
+{
+    "text":"hey how's life", 
+    "intent":"greet"
+}, 
+{
+    "text":"hi there", 
+    "intent":"greet"
+}, 
+{
+    "text":"hey how's it hanging", 
+    "intent":"greet"
+}, 
+{
+    "text":"tell me how you've been", 
+    "intent":"greet"
+}, 
+{
+    "text":"how is life treating you", 
+    "intent":"greet"
+}, 
+{
+    "text":"hi there, how are things", 
+    "intent":"greet"
+}, 
+{
+    "text":"hello, how are you", 
+    "intent":"greet"
+}, 
+{
+    "text":"hey, how's it going", 
+    "intent":"greet"
+}, 
+{
+    "text":"hello, are you doing alright", 
+    "intent":"greet"
+}, 
+{
+    "text":"hi! are you doing okay", 
+    "intent":"greet"
+}, 
+{
+    "text":"what's happening", 
+    "intent":"greet"
+}, 
+{
+    "text":"hey what's up", 
+    "intent":"greet"
+}, 
+{
+    "text":"why, hello bandit", 
+    "intent":"greet"
+}, 
+{
+    "text":"howdy, what's new", 
+    "intent":"greet"
+}, 
+{
+    "text":"salutations!", 
+    "intent":"greet"
+}, 
+{
+    "text":"how are you doing", 
+    "intent":"greet"
+}, 
+{
+    "text":"are you okay", 
+    "intent":"greet"
+}, 
+{
+    "text":"what are you feeling today", 
+    "intent":"greet"
+}, 
+{
+    "text":"is everything ok today", 
+    "intent":"greet"
+}, 
+{
+    "text":"are you doing alright", 
+    "intent":"greet"
+}, 
+{
+    "text":"hello, how's your day", 
+    "intent":"greet"
+}, 
+{
+    "text":"hey there, how are you today", 
+    "intent":"greet"
+}, 
+{
+    "text":"hello, how is it going", 
+    "intent":"greet"
+}, 
+{
+    "text":"hi there, how are you doing", 
+    "intent":"greet"
+}, 
+{
+    "text":"hey, how are you", 
+    "intent":"greet"
+}, 
+{
+    "text":"hey, what's up", 
+    "intent":"greet"
+}, 
+{
+    "text":"hello, how are you doing", 
+    "intent":"greet"
+}, 
+{
+    "text":"hi, how are you", 
+    "intent":"greet"
+}, 
+{
+    "text":"hi, how are you today", 
+    "intent":"greet"
+}, 
+{
+    "text":"hello, how are things", 
+    "intent":"greet"
+}, 
+{
+    "text":"hey there", 
+    "intent":"greet"
+}, 
+{
+    "text":"hey, what's new", 
+    "intent":"greet"
+}, 
+{
+    "text":"it is good to see you", 
+    "intent":"greet"
+}, 
+{
+    "text":"i'd like to know how you are doing", 
+    "intent":"greet"
+}, 
+{
+    "text":"hello there", 
+    "intent":"greet"
+}, 
+{
+    "text":"tell me how you are doing", 
+    "intent":"greet"
+}, 
+{
+    "text":"hello there, good morning", 
+    "intent":"greet"
+}, 
+{
+    "text":"let me know how you are doing", 
+    "intent":"greet"
+}, 
+{
+    "text":"well hi there", 
+    "intent":"greet"
+}, 
+{
+    "text":"i want to know how you are doing", 
+    "intent":"greet"
+}, 
+{
+    "text":"i need to know how you are doing today", 
+    "intent":"greet"
+}, 
+{
+    "text":"hello there ai", 
+    "intent":"greet"
+}, 
+{
+    "text":"will you tell me how the ai is doing", 
+    "intent":"greet"
+}, 
+{
+    "text":"would you tell me how the ai is doing", 
+    "intent":"greet"
+}, 
+{
+    "text":"hola!", 
+    "intent":"greet"
+},
+{
+  "text": "howdy",
+  "intent": "greet",
+  "entities": []
+},
+{
+  "text": "hey there",
+  "intent": "greet",
+  "entities": []
+},
