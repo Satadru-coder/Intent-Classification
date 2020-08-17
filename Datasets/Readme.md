@@ -1,3 +1,3 @@
 #Datasets
 
-This file contains Text and intent datasets of Greet, Goodbye, Getweather, Calculator, Calendar, Calendar_update datasets.
+Text used for the training falls under the six categories namely, Greet, Goodbye, GetWeather , Calculaotr , Calendar, Calendar_update each having nearly 200 sentences.
