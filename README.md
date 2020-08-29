@@ -8,8 +8,8 @@ AT first gather all the dataset and then put them in a dict with tag "common exa
 I'm getting validation accuracy almost 95%-96%. hope this code will work for others. :)
 
 # Requirements
+
 ```
-  
 import numpy
 import json
 import tensorflow
