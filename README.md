@@ -6,3 +6,15 @@ Text used for the training falls under the six categories namely, Greet, Goodbye
 
 AT first gather all the dataset and then put them in a dict with tag "common examples". or if you want you can customize the dataset as you want.
 I'm getting validation accuracy almost 95%-96%. hope this code will work for others. :)
+
+# Requirements
+```
+  
+import numpy
+import json
+import tensorflow
+from tensorflow.keras.preprocessing.text import Tokenizer
+from tensorflow.keras.preprocessing.sequence import pad_sequences
+from tensorflow.keras.optimizers import Adam
+from sklearn.preprocessing import LabelEncoder
+```
