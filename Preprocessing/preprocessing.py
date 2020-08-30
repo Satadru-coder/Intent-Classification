@@ -1,14 +1,14 @@
 import numpy as np
 import json
-from sklearn.preprocessing import LabelEncoder
+from sklearn.preprocessing import LabelBinarizer
 
 vocab_size = 1000
-embedding_dim = 16
-max_length = 100
+embedding_dim = 100
+max_length = 200
 trunc_type='post'
 padding_type='post'
 oov_tok = "<OOV>"
-training_size = 538
+training_size = 503
 
 
 with open("dataset.json", 'r') as f:
@@ -24,7 +24,7 @@ for item in datastore['common_examples']:
     intent.append(item['intent'])
 #print(text)
 #print(intent)
-encoder= LabelEncoder()
+encoder= LabelBinarizer()
 encoder.fit_transform(intent)
 intent = encoder.transform(intent)
 #print(intent)
