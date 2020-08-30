@@ -4,12 +4,12 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 model = tf.keras.Sequential([
     tf.keras.layers.Embedding(vocab_size, embedding_dim, input_length=max_length),
-    tf.keras.layers.Bidirectional(tf.keras.layers.LSTM(32)),
+    tf.keras.layers.Bidirectional(tf.keras.layers.LSTM(64)),
     tf.keras.layers.Dense(24, activation='relu'),
-    tf.keras.layers.Dense(6, activation='softmax')
+    tf.keras.layers.Dense(6, activation='sigmoid')
 ])
 
-model.compile(loss='sparse_categorical_crossentropy',optimizer='adam',metrics=['accuracy'])
+model.compile(loss='binary_crossentropy',optimizer='adam',metrics=['accuracy'])
 model.summary()
 
 num_epochs = 30
